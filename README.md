@@ -1,4 +1,4 @@
-# hacklahoma-project (this name will change as appropriate to cool name)
+# Disgotchi (Hacklohama Project)
 Nate says:
 >LETS GOOOOOOO GET THIS
 ## Project Ideas
